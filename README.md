@@ -1,7 +1,5 @@
 # Welcome to My Awesome Project! 👋
 
-<img src="https://example.com/new_image.png" alt="New Image" width="200" />
-
 Hey there! Thanks for stopping by. Allow me to introduce myself and share what I'm currently working on.
 
 ## About Me
